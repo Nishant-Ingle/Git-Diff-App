@@ -1,0 +1,12 @@
+div {
+    width: 48%;
+    display: inline-block;
+}
+
+#index-file-text-box {
+    width: 180%;
+}
+
+textarea {
+    resize: none;
+}

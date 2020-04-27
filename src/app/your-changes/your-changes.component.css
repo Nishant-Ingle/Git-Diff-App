@@ -1,0 +1,16 @@
+div {
+    width: 49%;
+    display: inline-block;
+}
+
+#your-changes-text-box {
+    width: 180%;
+}
+
+.changes-root {
+    padding-left: 2%;
+}
+
+textarea {
+    resize: none;
+}
